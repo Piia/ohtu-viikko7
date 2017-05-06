@@ -1,0 +1,14 @@
+Lauri Suomalainen: Ohjelmistotuotantomenetelmien kehittyminen 1950-luvulta nykypäivään
+
+Lauri Suomalaisen kandidaatintyö on lyhyt katsaus ohjelmistotuotantomenetelmien historiaan. Osa Suomalaisen työhön sisällyttämistä osioista on käyty hyvin luennoilla, eikä niiden lukeminen tuonut juurikaan uutta informaatiota. Kirjoitin tähän tiivistelmään niistä osioista, jotka olivat minulle uutte asiaa.
+
+Iteratiiviset:
+
+Barry Boehmin spiraalimallissa ohjelmistokehitys määräytyy riskien ja niiden hallinnan mukaan. Spiraalimalli etenee iteraatiivisesti, kuten spiraalin kierrokset, ja jokaiseen kierrokseen kuuluvat seuraavat vaiheet: 1) Tavoitteen määrittely 2) Riskien arviointi ja minimointi 3) Kehitys ja validointi 4) Seuraavan liikkeen suunnittelu. Keskiössä on riskien hallinta, eli miten välttää kaikki mahdolliset tavat mennä pieleen. Riskit on kategorisoitu 1) Projektiriskeihin 2) Tuoteriskeihin ja 3) Liikeriskeihin.
+
+RUP:
+
+IBM:n kannattama 2000-luvun alussa kehitetty malli, joka painottaa valmiita työkaluja, kuten UML-kaavioita. 
+
+
+Suominen arvioi, että noin puolet ohjelmistoteollisuuden toimijoista käyttää ketteriä menetelmiä. Niiden yleistymisen voi ajoittaa internetin yleistymiseen. Ohjelmistojen globaali skaala haastaa ketterät menetelmät. 

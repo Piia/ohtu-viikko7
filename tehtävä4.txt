@@ -1,0 +1,11 @@
+http://jpattonassociates.com/the-new-backlog/
+
+Jeff Patton kirjoittaa product backlogin toteuttamisesta karttamuotoisena. Hänen mielestään se auttaa näkemään backlogin kokonaisuutena yksittäisten user storyjen sijaan.
+
+Perinteisen backlogin keskeinen ongelma on Pattonin mielestä luonnostaan isot, eli eeppiset, user storyt. Ne tulisi pilkkoa pienemmiksi storyiksi, mutta samalla tulee pyyhittyä eeppinen tarina pois backlogista. Jos näin tehdään, pilkotuilta storyilta katoaa konteksti. 
+
+Esimerkiksi sähköpostin toteuttaminen on pakko pilkkoa viestin lähettämiseen ja vastaanottamiseen. Ei saa unohtaa, että ne liittyvät sähköpostiin.
+
+Patton kutsuu eeppisiä ylemmän tason user storyja user activiteiksi, jotka pilkotaan user taskeiksi. Activityt muodostavat product backlogin selkärangan, eikä niitä ei priorisoida. Activityn alla olevat user taskit sen sijaan toimivat kuten tavalliset user storytkin. Nyt niillä on viitekehys. Työjärjestys on vasemmalta oikealle ja ylhäältä alas. 
+
+Kokonaisuuden hahmottaminen parantaa asiakkaan ja ohjelmoijan välista kommunikaatiota. Kun user taskit on priorisoitu ylhäältä alas, ylimmän rivin muodostavat ne user taskit, jotka toteuttavat pienimmän mahdollisen end-to-end-toiminnallisuuden. Patton muistuttaa, että niitä olisi typerää laittaa keskinäiseen tärkeysjärjestykseen.
